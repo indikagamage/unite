@@ -1,0 +1,9 @@
+var/cache
+var/session
+var/report
+var/log
+var/debug
+media
+.idea
+dev
+app/etc/local.xml

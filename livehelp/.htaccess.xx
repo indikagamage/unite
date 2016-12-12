@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteBase /livehelp/
+
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-f
+RewriteRule ^.+.php$ /bogusfile
+
+Options -MultiViews

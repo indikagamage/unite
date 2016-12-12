@@ -1,0 +1,12 @@
+<?php
+// $Id: designmd.install,v 1.22 2010/08/09 19:55:57 dries Exp $
+
+/**
+ * Implements hook_install().
+ *
+ * Perform actions to set up the site for this profile.
+ */
+function designmd_install() {
+
+
+}
